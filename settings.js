@@ -1,11 +1,11 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.sessionID = process.env.SESSIONID || ""
+global.sessionID = process.env.SESSIONID || "KAVI-X-SESSION-ID~3sh3CDIJ#g_Ha-NZT1pfv3KeoXxc_U53DaaAHvKAwEntwICIgK9g"
 global.mongodburi = process.env.MONGODB_URI || ""
 global.botname = process.env.BOTNAME || "KAVI-X MD"
-global.ownernumber = process.env.OWNERNUMBER || "94766577249"
-global.ownername = process.env.OWNERNAME || "Cyber Kavi"
+global.ownernumber = process.env.OWNERNUMBER || "94786578728"
+global.ownername = process.env.OWNERNAME || "🧚‍♀️Cyber Kavi🧚"
 global.packname = process.env.PACKNAME || "KAVI-X MD"
 global.author = process.env.AUTHOR || "Cyber Kavi"
 
