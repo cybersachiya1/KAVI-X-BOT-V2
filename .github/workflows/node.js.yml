@@ -37,5 +37,5 @@ jobs:
       - name: Install remaining dependencies
         run: npm install --legacy-peer-deps
 
-      - name: Start application
+      - name: npm install
         run: npm start
